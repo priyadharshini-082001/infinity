@@ -14612,7 +14612,12 @@ label {
 }
 @media (min-width:400px) and (max-width: 550px) {
  .shape-wrapped-thumb-1 .award-shape {
-    bottom: -80%;
+    bottom: -90%;
+  }
+}
+@media (min-width:340px) and (max-width:360px) {
+ .shape-wrapped-thumb-1 .award-shape {
+    bottom: -110%;
   }
 }
 @media (min-width: 1200px) and (max-width: 1399px) {
