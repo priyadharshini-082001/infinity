@@ -1670,6 +1670,7 @@ label {
 @media (min-width: 1200px) and (max-width: 1399px) {
   .header-bar-3 .bar {
     width: 18px;
+    
   }
 }
 .header-bar-3 .bar-1 {
@@ -14603,6 +14604,16 @@ label {
   top: 45%;
   right: 70px;
   border-radius: 150px 150px 12px 12px;
+}
+@media (min-width: 350px) and (max-width: 400px) {
+ .shape-wrapped-thumb-1 .award-shape {
+    bottom: -104%;
+  }
+}
+@media (min-width:400px) and (max-width: 550px) {
+ .shape-wrapped-thumb-1 .award-shape {
+    bottom: -80%;
+  }
 }
 @media (min-width: 1200px) and (max-width: 1399px) {
   .positioned-shape {
